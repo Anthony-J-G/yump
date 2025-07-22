@@ -1,0 +1,7 @@
+*venv/
+*.obj
+bin/
+!bin/*.gdextension
+*.dblite
+*.db
+compile_commands.json
