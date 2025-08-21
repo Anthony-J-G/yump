@@ -5,3 +5,8 @@ bin/
 *.dblite
 *.db
 compile_commands.json
+*cache/
+.ark/
+.ark_server/
+vcpkg_installed/
+assets/
