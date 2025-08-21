@@ -3,4 +3,5 @@
 [ext_resource type="Texture2D" uid="uid://q7l7dmgcbflb" path="res://icon.svg" id="1_37kl0"]
 
 [node name="GDExample" type="GDExample"]
+position = Vector2(1, 0)
 texture = ExtResource("1_37kl0")

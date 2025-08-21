@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://ddescmun5sra"]
+
+[node name="Player" type="Actor_Player"]
