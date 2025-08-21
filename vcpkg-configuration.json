@@ -1,0 +1,17 @@
+{
+  "default-registry": null,
+  "registries": [
+    {
+      "kind": "filesystem",
+      "path": "C:/Users/Anthony/Spellbook/external/example-filesystem-registry",
+      "packages": ["beicode", "beison"]
+    },
+    {	    
+      "kind": "git",
+      "repository": "https://github.com/anthony-j-g/asset-registry",
+      "baseline": "e5f7068087c4a9ed4075efceb3d41e2abf16708d",
+      "reference": "main",
+      "packages": ["libogg", "vcpkg-cmake", "vcpkg-cmake-config"]
+    }
+  ]
+}
